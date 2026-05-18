@@ -17,3 +17,6 @@ Results/graph/
 # Python cache
 __pycache__/
 *.pyc
+*.pkl
+*.png
+*.pdf
