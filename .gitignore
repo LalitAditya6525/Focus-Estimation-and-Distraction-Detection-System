@@ -8,8 +8,7 @@ venv/
 Datasets/
 
 # Model files
-Models/Test1/
-Models/focus_model.pkl
+Models/
 
 # Results
 Results/graph/
