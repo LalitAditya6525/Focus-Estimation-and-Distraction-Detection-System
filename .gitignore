@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Datasets
+Datasets/
+
+# Model files
+Models/Test1/
+Models/focus_model.pkl
+
+# Results
+Results/graph/
+
+# Python cache
+__pycache__/
+*.pyc
