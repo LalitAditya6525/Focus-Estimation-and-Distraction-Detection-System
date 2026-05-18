@@ -19,3 +19,12 @@ __pycache__/
 *.pkl
 *.png
 *.pdf
+
+#src
+src/check_mp.py
+src/data_pipeline.py
+src/train_model.py
+src/train_model_1.py
+src/focus_server.py
+src/focus_dashboard.html
+src/focusvstime.py
